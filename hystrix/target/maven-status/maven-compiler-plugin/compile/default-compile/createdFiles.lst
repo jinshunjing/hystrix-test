@@ -1,2 +1,11 @@
-org/jim/hystrix/controller/BookController.class
+org/jim/hystrix/exception/BookException.class
 org/jim/hystrix/HystrixTestApp.class
+org/jim/hystrix/controller/BookController.class
+org/jim/hystrix/service/BookService.class
+org/jim/hystrix/service/BookService$3.class
+org/jim/hystrix/schedule/RequestStats.class
+org/jim/hystrix/service/AuthorService$1.class
+org/jim/hystrix/service/BookService$2.class
+org/jim/hystrix/schedule/RequestStats$1.class
+org/jim/hystrix/service/AuthorService.class
+org/jim/hystrix/service/BookService$1.class
